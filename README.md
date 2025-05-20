@@ -1,1 +1,1 @@
-# Gameforge-ai
+# GameForge AI MVP
